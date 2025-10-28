@@ -5,6 +5,6 @@
 </p>
   </Div>
 <p align="center">
-  Cloud Computing • Optimization • Data Science
+  Data Science • Optimization • Cloud Computing    
 </p>
 
