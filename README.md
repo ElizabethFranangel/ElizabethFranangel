@@ -12,3 +12,8 @@
 </p>
 
 ---
+<p align="center">
+  <a  href="https://git.io/streak-stats">
+    <img  src="https://github-readme-streak-stats.herokuapp.com?user=ElizabethFranangel&theme=tokyonight-duo&border_radius=5.2&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" align="center" />
+  </a>
+</p>
