@@ -13,8 +13,8 @@
 ## 📊 GitHub Stats:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
-  <a >
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ElizabethFranangel&theme=tokyonight-duo&border_radius=5.2&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
+  <a>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ElizabethFranangel&theme=tokyonight-duo" alt="GitHub Streak" />
   </a>
 </p>
 
